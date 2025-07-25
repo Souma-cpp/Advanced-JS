@@ -1,57 +1,42 @@
-# Advanced JavaScript 🚀
+<h1 align="center">📘 Advanced JavaScript Concepts</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Modern+JavaScript!;Async,+Closures,+Promises,+and+more...;&center=true&width=400&height=45">
+</p>
 
-Welcome to the **Advanced JavaScript** folder! This section focuses on mastering powerful and modern JavaScript concepts that go beyond the basics. Each topic is implemented with clean code examples and relevant use cases to enhance deep understanding.
-
-## 📁 Folder Structure
-
-Each topic has a dedicated file or folder containing code snippets, examples, and sometimes small projects or notes.
+<p align="center">
+  🚀 A personal learning log as I dive deep into advanced JavaScript concepts.<br>
+  📚 Built with code snippets, examples, and hands-on practice while studying.<br>
+  🔄 Continuously updated as I learn more!
+</p>
 
 ---
 
-## 📚 Covered Topics
+## 🧠 What’s in This Repo?
 
-### 1. ✅ Asynchronous JavaScript with Event Loop 
-- Understanding the call stack, Web APIs, callback queue, and event loop
-- Visualizing how JavaScript handles asynchronous operations
-- Practical examples with `setTimeout`, `fetch`, etc.
+This folder is part of my **JavaScript learning journey**. I'm currently exploring deeper topics beyond the basics, and this repo is where I practice and commit those learnings. Each file covers a specific concept with small code snippets.
 
-### 2. 🔄 Closures in JavaScript 
-- Lexical scoping and function scope
-- Practical closure use cases: data privacy, currying, and memoization
+---
 
-### 3. 🔗 Promises and Promise Chaining 
-- Creating and consuming Promises
-- Chaining `.then()` for sequential async flows
-- Error handling with `.catch()`
+## 📁 Topics Covered
 
-### 4. 🧬 Prototypal Inheritance in JavaScript
-- The prototype chain
-- Object delegation
-- `Object.create()` and inheritance using constructor functions
+| No. | Topic | Duration | Description |
+|-----|-------|----------|-------------|
+| ✅ | **Asynchronous JavaScript with Event Loop** | 18 min | Call Stack, Web APIs, Callback Queue, `setTimeout`, Event Loop |
+| 🔄 | **Closures in JavaScript** | 5 min | Lexical scope, Data privacy, Currying |
+| 🔗 | **Promises and Promise Chaining** | 13 min | `.then()`, `.catch()`, Promise creation |
+| 🧬 | **Prototypal Inheritance** | 4 min | `Object.create()`, Inheritance, Prototype chain |
+| 🧠 | **`this` and Binding Context** | 5 min | `bind()`, `call()`, `apply()`, Arrow vs Regular functions |
+| 🕰 | **Async-Await and Promise.all** | 15 min | Writing clean async code, `Promise.all`, error handling |
+| 🌀 | **Iterators and Generators** | 7 min | `function*`, `yield`, Custom iterators |
+| 📦 | **ES6 Modules and CommonJS** | 11 min | `import`, `export`, `require`, `module.exports` |
 
-### 5. 🧠 `this` and Binding Context 
-- `this` in global vs. function vs. arrow functions
-- Methods: `bind()`, `call()`, `apply()`
+---
 
-### 6. 🕰 Async/Await and `Promise.all()` 
-- Writing cleaner asynchronous code
-- Handling multiple promises in parallel
-- Error handling with `try/catch`
+## 🚀 Getting Started
 
-### 7. 🌀 Iterators and Generators in JavaScript 
-- Custom iterators using `Symbol.iterator`
-- Writing generators with `function*`
-- Lazy evaluation and infinite sequences
+> This is just a personal practice repo—feel free to explore if you're learning too!
 
-### 8. 📦 ES6 Modules and CommonJS 
-- Import/export syntax in ES6
-- Understanding `require()` and `module.exports` in Node.js
-- Using both in different environments
-
-
-
-## 📌 Getting Started
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/souma-cpp/Advanced-JS.git
+### 🛠 Clone the Repository
+```bash
+git clone https://github.com/souma-cpp/Advanced-JS.git
+cd Advanced-JS
