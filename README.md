@@ -1,6 +1,7 @@
 <h1 align="center">📘 Advanced JavaScript Concepts</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Modern+JavaScript!;Async,+Closures,+Promises,+and+more...;&center=true&width=400&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Modern+JavaScript!;Async,+Closures,+Promises,+and+more...;&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -13,30 +14,31 @@
 
 ## 🧠 What’s in This Repo?
 
-This folder is part of my **JavaScript learning journey**. I'm currently exploring deeper topics beyond the basics, and this repo is where I practice and commit those learnings. Each file covers a specific concept with small code snippets.
+This repository is part of my **JavaScript learning journey**. I'm exploring deeper topics beyond the basics, and committing my learnings here as code files and notes.  
+Each topic includes focused examples and breakdowns for solid hands-on understanding.
 
 ---
 
 ## 📁 Topics Covered
 
-| No. | Topic | Description |
-|-----|-------|----------|-------------|
-| ✅ | **Asynchronous JavaScript with Event Loop** | Call Stack, Web APIs, Callback Queue, `setTimeout`, Event Loop |
-| 🔄 | **Closures in JavaScript** | Lexical scope, Data privacy, Currying |
-| 🔗 | **Promises and Promise Chaining** | `.then()`, `.catch()`, Promise creation |
-| 🧬 | **Prototypal Inheritance** |  `Object.create()`, Inheritance, Prototype chain |
-| 🧠 | **`this` and Binding Context** | `bind()`, `call()`, `apply()`, Arrow vs Regular functions |
-| 🕰 | **Async-Await and Promise.all** | Writing clean async code, `Promise.all`, error handling |
-| 🌀 | **Iterators and Generators** | `function*`, `yield`, Custom iterators |
-| 📦 | **ES6 Modules and CommonJS** | `import`, `export`, `require`, `module.exports` |
+| 🚀 | Topic | Description |
+|----|-------------------------------|----------------------------------------------------------------|
+| ✅ | **Asynchronous JS & Event Loop** | Call Stack, Web APIs, Callback Queue, `setTimeout`, Event Loop |
+| 🔄 | **Closures in JavaScript**     | Lexical scope, data privacy, currying, encapsulation            |
+| 🔗 | **Promises & Promise Chaining**| `.then()`, `.catch()`, chaining, error handling                 |
+| 🧬 | **Prototypal Inheritance**     | `Object.create()`, constructor functions, prototype chain       |
+| 🧠 | **`this` & Binding Context**   | `bind()`, `call()`, `apply()`, arrow functions vs regular       |
+| 🕰 | **Async-Await & Promise.all**  | Cleaner async code, parallel promises, `try/catch`              |
+| 🌀 | **Iterators & Generators**     | Custom iterators, `function*`, `yield`, lazy evaluation         |
+| 📦 | **ES6 Modules & CommonJS**     | `import/export`, `require`, `module.exports`                    |
 
 ---
 
 ## 🚀 Getting Started
 
-> This is just a personal practice repo—feel free to explore if you're learning too!
+> This is a personal practice repo — but feel free to fork, explore, or learn along!
 
-### 🛠 Clone the Repository
+### 🔧 Clone the Repository
 ```bash
 git clone https://github.com/souma-cpp/Advanced-JS.git
 cd Advanced-JS
