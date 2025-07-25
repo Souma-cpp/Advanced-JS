@@ -19,16 +19,16 @@ This folder is part of my **JavaScript learning journey**. I'm currently explori
 
 ## 📁 Topics Covered
 
-| No. | Topic | Duration | Description |
+| No. | Topic | Description |
 |-----|-------|----------|-------------|
-| ✅ | **Asynchronous JavaScript with Event Loop** | 18 min | Call Stack, Web APIs, Callback Queue, `setTimeout`, Event Loop |
-| 🔄 | **Closures in JavaScript** | 5 min | Lexical scope, Data privacy, Currying |
-| 🔗 | **Promises and Promise Chaining** | 13 min | `.then()`, `.catch()`, Promise creation |
-| 🧬 | **Prototypal Inheritance** | 4 min | `Object.create()`, Inheritance, Prototype chain |
-| 🧠 | **`this` and Binding Context** | 5 min | `bind()`, `call()`, `apply()`, Arrow vs Regular functions |
-| 🕰 | **Async-Await and Promise.all** | 15 min | Writing clean async code, `Promise.all`, error handling |
-| 🌀 | **Iterators and Generators** | 7 min | `function*`, `yield`, Custom iterators |
-| 📦 | **ES6 Modules and CommonJS** | 11 min | `import`, `export`, `require`, `module.exports` |
+| ✅ | **Asynchronous JavaScript with Event Loop** | Call Stack, Web APIs, Callback Queue, `setTimeout`, Event Loop |
+| 🔄 | **Closures in JavaScript** | Lexical scope, Data privacy, Currying |
+| 🔗 | **Promises and Promise Chaining** | `.then()`, `.catch()`, Promise creation |
+| 🧬 | **Prototypal Inheritance** |  `Object.create()`, Inheritance, Prototype chain |
+| 🧠 | **`this` and Binding Context** | `bind()`, `call()`, `apply()`, Arrow vs Regular functions |
+| 🕰 | **Async-Await and Promise.all** | Writing clean async code, `Promise.all`, error handling |
+| 🌀 | **Iterators and Generators** | `function*`, `yield`, Custom iterators |
+| 📦 | **ES6 Modules and CommonJS** | `import`, `export`, `require`, `module.exports` |
 
 ---
 
